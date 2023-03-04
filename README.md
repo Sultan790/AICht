@@ -1,2 +1,1 @@
-# AICht
-linked with ChatGPT
+
